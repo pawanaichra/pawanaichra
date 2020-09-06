@@ -1,8 +1,8 @@
 ### Hi there 👋  [![HitCount](http://hits.dwyl.com/pawanaichra/pawanaichra.svg)](http://hits.dwyl.com/pawanaichra/pawanaichra)
 
-I have always been passionate to learn more about tech and specifically web. I am self taught web developer and priority has been to provide easy to use applications. I recently graduated from IIT Kharagpur and soon will be working with Goldman Sachs.
+I have always been passionate to learn more about tech and specifically web. I am self taught web developer and priority has been to provide easy to use applications. I recently graduated from IIT Kharagpur.
 
-  - 🔭 I’m currently working as CTO, Simmi Foundation (NGO)
+  - 🔭 I’m currently working as Analyst at Goldman Sachs
   - 🌱 I’m currently also preparing for CFA L3
   - 📩 How to reach me: Aichrapawan@gmail.com
 
